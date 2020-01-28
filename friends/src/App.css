@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+  background-image: url(https://wallpapercave.com/wp/fLmAxoy.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+}
+
+button {
+  background-color: #2f339e;
+  color: #fa2c35;
+  font-weight: bold;
+  font-size: 2rem;
+  border-radius: 35%;
+}
+
+nav {
+  padding: 6.5%;
+}
+
+nav a {
+  color: #fff;
+  font-weight: bold;
+}
+
+html {
+  background-color: black;
+}
+
+label {
+  color: #fa2c35;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+h2 {
+  color: #2f339e;
+  font-size: 2rem;
+}
+
+p {
+  color: #eb243f;
+}
+
+input {
+  margin-right: 6rem;
+  height: 1.2rem;
+  background-color: #d5c540;
+  color: #2f339e;
+  font-weight: bold;
+  font-size: 1.4rem;
+  margin: 1px;
+}
+
+p.email {
+  border-bottom: 2px solid gold;
+}
